@@ -15,3 +15,5 @@ const connectDB = async(DB_URL)=>{
 
 export default connectDB;
 
+// testing database
+
